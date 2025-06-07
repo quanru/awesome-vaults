@@ -61,3 +61,7 @@ Rainbell's Personal Vault showing vault of cardboard kanban plugin and more.(don
 [Obsidian Templates](
 
 [bencodezen/bens-obsidian-boilerplate: An opinionated kit to provide people some inspiration and ideas for their own workflows.](https://github.com/bencodezen/bens-obsidian-boilerplate)
+
+## LifeOS
+
+[LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)](https://github.com/quanru/obsidian-example-lifeos)
